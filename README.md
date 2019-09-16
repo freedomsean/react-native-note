@@ -9,7 +9,7 @@
 
   - `nvm install THE_VERSION_YOU_WANTED`
   - `nvm use THE_VERSION_YOU_WANTED`
-  - expo: if you use expo, you need to install it by `npm install -g expo`, or you can skip this step
+  - expo: if you use expo, you need to install it by `npm install -g expo-cli`, or you can skip this step
   - add config in you `~/.bash_profile` or `~/zsh_rc`
       ```
       nvm alias default [THE_VERSION_YOU_INSTALLED] > /dev/null 2>&1
